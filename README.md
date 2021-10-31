@@ -76,4 +76,4 @@ the accuracy score is 93%, the precision for the high_risk loans is at 9% with 9
 
 ## Summary:
 
-The Easy Ensemble Classifier model provides a recall of 92%, is the highest of all models. Which means that using Easy Ensemble Classifier will help detect almost all high risk credit. While other models provide a low precision, with those models a bank has more chance to falsely detect a high risk loan and might missing some business opportunities. That is why I would not recommend the bank to use the Easy Ensemble Classifier model to predict credit risk.
+The Easy Ensemble Classifier model provides a recall of 92%, is the highest of all models. Which means that using Easy Ensemble Classifier will help detect almost all high risk credit. While other models provide a low precision, with those models a bank has more chance to falsely detect a high risk loan and might missing some business opportunities. That is why I would recommend the bank to use the Easy Ensemble Classifier model to predict credit risk.
